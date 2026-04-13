@@ -1,0 +1,26 @@
+{
+  "name": "copy-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/copy-site.js",
+  "bin": {
+    "copy-site": "bin/copy-site.js"
+  },
+  "scripts": {
+    "start": "node bin/copy-site.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pogoda1/copy-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pogoda1/copy-site/issues"
+  },
+  "homepage": "https://github.com/pogoda1/copy-site#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
