@@ -1,0 +1,7 @@
+.claude/
+.playwright-mcp/
+rendered.html
+career-landing-full.png
+local-landing.png
+local-v2.png
+*.output
