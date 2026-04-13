@@ -1,5 +1,6 @@
 node_modules/
-sites/
+sites/*
+!sites/.gitkeep
 .claude/
 .playwright-mcp/
 *.output
